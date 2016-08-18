@@ -1,6 +1,7 @@
 # Selenium-advanced
 Demonstrates how you can convert a basic selenium script to advance level script with more Java OOPS concepts.
-When I start a new Java project I clone this repository, set the project properties, clear out the sample sources, and get to work.
+
+When you start a new Java project please clone this repository, set the project properties, clear out the sample sources, and get to work.
 
 #Facebook-login
 Created sample login automation script for facebook, enter your user name and password replacing "xxxx" in DriverTestcase.

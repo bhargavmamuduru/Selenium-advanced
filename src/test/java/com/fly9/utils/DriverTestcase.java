@@ -15,8 +15,8 @@ public abstract  class DriverTestcase {
 
     //Define variables
     protected String URL = ("https://www.facebook.com");
-    protected static String Email = ("xxxxxxxxxxx");
-    protected String Password = ("xxxxxxxxxx");
+    protected static String Email = ("Enter your Email ID");
+    protected String Password = ("Enter your password");
 
     @BeforeMethod
     public void setUp(){
